@@ -8,5 +8,5 @@ document.getElementById("app").innerHTML = `
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>
 “Qué capo, ya estoy usando github y voy hacer
-mi primer commit” otro texto.
+mi primer commit”.
 `;
